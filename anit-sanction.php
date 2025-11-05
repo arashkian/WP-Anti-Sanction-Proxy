@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP Anti-Sanction Proxy
 Plugin URI: https://7ho.st
-Description: افزونه رفع تحریم وردپرس — عبور درخواست‌های وردپرس و المنتور از پراکسی برای رفع محدودیت‌های تحریم. تنظیمات پس از ثبت مخفی می‌شوند و به‌صورت رمزگذاری‌شده در پایگاه داده ذخیره می‌گردند.
+Description: افزونه رفع تحریم وردپرس — عبور درخواست‌های وردپرس و المنتور از پراکسی برای رفع محدودیت‌های تحریم.
 Version: 1.4
 Author: Arash Kian
 Author URI: https://github.com/arashkian
